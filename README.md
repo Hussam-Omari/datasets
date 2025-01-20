@@ -1,2 +1,2 @@
 # datasets
-Different datasets for training
+Different datasets for data science and analysis training
